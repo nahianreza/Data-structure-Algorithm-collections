@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0792-binary-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 ## Binary Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -76,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
