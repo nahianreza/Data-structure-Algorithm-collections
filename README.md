@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0238-product-of-array-except-self) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
