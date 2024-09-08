@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0155-min-stack) |
 ## Design
