@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Matrix
 |  |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
