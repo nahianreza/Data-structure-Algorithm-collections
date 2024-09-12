@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0133-clone-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
