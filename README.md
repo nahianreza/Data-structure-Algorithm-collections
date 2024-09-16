@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0151-reverse-words-in-a-string) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0155-min-stack) |
