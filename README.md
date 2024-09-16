@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 ## Game Theory
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0151-reverse-words-in-a-string) |
