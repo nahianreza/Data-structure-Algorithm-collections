@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0186-reverse-words-in-a-string-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
