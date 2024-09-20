@@ -5,10 +5,8 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if not lists:
+        if not lists or len(lists) == 0:
             return None
-        dummy = ListNode()
-        dummyTail = dummy
         
         def sortList(l1, l2):
             dummyNode = ListNode()
@@ -33,13 +31,16 @@ class Solution:
         
             return dummyNode.next
         
-        if lists[0]:
-            dummyTail.next = lists[0]
+        while len(lists) > 1:
+            resList = []
         
-        for i in range(1,len(lists)):
-            dummyTail.next = sortList(dummy.next,lists[i])
-            
-            
-        return dummy.next
-                
+            for i in range(0, len(lists), 2):
+
+                l1 = lists[i]
+                l2 = lists[i + 1] if (i + 1) < len(lists) else None
+                resList.append(sortList(l1,l2))
+
+            lists = resList
+
+        return lists[0]
         
