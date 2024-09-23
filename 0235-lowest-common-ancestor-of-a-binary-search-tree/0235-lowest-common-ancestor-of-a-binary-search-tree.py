@@ -13,15 +13,15 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         
-        def dfs(curr, l, r):
-            if (l.val < curr.val < r.val) or (r.val < curr.val < l.val) or (l.val == curr.val) or (r.val == curr.val):
-                return curr
-            elif l.val < curr.val and r.val < curr.val:
-                return dfs(curr.left, l, r)
-            elif l.val > curr.val and r.val > curr.val:
-                return dfs(curr.right, l, r)
+        cur = root
+
+        while cur:
+            if p.val < cur.val and q.val < cur.val:
+                cur = cur.left
+            elif p.val > cur.val and q.val > cur.val:
+                cur = cur.right
+            else:
+                return cur
             
-        
-        return dfs(root,p,q)
                 
                 
