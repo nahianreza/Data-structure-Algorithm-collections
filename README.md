@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0048-rotate-image) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0143-reorder-list) |
