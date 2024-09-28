@@ -1,4 +1,7 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        return min(nums)
+        minVal = nums[0]
+        for i in nums:
+            minVal = min(minVal, i)
+        return minVal
         
