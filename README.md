@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0151-reverse-words-in-a-string) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Matrix
 |  |
