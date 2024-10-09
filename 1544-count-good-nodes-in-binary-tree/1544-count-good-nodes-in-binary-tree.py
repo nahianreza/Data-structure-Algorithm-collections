@@ -10,8 +10,7 @@ class Solution:
         self.res = 0
 
         def dfs(cur, curMax):
-            if not cur:
-                return 
+        
             
             if cur.val >= curMax:
                 self.res += 1
