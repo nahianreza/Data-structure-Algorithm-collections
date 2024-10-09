@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
