@@ -4,12 +4,13 @@ class Solution:
         res = []
 
         def dfs(i, curList, total):
+            if (i >= len(candidates)) or total > target:
+                return
             if total == target:
                 res.append(list(curList))
                 return
             
-            if (i >= len(candidates)) or total > target:
-                return
+            
             
             
             curList.append(candidates[i])
