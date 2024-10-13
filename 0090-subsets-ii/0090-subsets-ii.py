@@ -1,6 +1,6 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        
+        nums.sort()
 
         res = []
 
@@ -8,9 +8,8 @@ class Solution:
 
         def dfs(i):
             if i >= len(nums):
-                copy_val = sorted(sol)
-                if copy_val not in res:
-                    res.append(copy_val)
+                if sol not in res:
+                    res.append(sol.copy())
                 return
             
             sol.append(nums[i])
