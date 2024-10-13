@@ -1,26 +1,28 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
 
-        self.set = set()
+        res = []
 
-        def dfs(curList):
-            if sum(curList) > target:
-                return
-            tupList = tuple(sorted(curList))
-            if sum(curList) == target and tupList not in self.set :
-                self.set.add(tupList)
+        def dfs(i, curList, total):
+            if total == target:
+                res.append(list(curList))
                 return
             
-            for i in candidates:
-                curList.append(i)
-                dfs(curList)
-                curList.pop()
+            if (i >= len(candidates)) or total > target:
+                return
             
-        for c in candidates:
-            dfs([c])
+            
+            curList.append(candidates[i])
+
+            dfs(i, curList, total + candidates[i])
+
+            curList.pop()
+
+            dfs(i + 1, curList, total)
         
+        dfs(0, [], 0)
+            
         
-        res = [x for x in self.set]
         return res
             
         
