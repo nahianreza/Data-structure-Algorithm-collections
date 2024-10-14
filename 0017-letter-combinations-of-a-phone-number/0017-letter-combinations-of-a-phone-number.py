@@ -14,20 +14,25 @@ class Solution:
                 '8' : "tuv",
                 '9' : "wxyz"}
         
-        
-        def dfs(digit, cur):
-            if len(cur) == len(digits):
-                res.append(cur)
+        def dfs(i, cur):
+            if i >= len(digits):
+                res.append(cur.copy())
                 return
-            
-            temp = digits[digit]
-            for i in word[temp]:
-                dfs(digit + 1, cur + i)
-            
-                
-        dfs(0, "")
-        
+
+            for k in word[digits[i]]:
+                cur.append(k)
+                dfs(i+1, cur)
+                cur.pop()
+        dfs(0,[])
+
+        res = ["".join(x) for x in res]
+    
         return res
+            
+
+
+        
+        
             
                 
             
