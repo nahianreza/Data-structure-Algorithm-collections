@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0131-palindrome-partitioning) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0151-reverse-words-in-a-string) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
