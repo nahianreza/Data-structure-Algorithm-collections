@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0128-longest-consecutive-sequence) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0151-reverse-words-in-a-string) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
