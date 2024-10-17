@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0739-daily-temperatures) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
