@@ -7,41 +7,48 @@ class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         
         def reverseList(l):
-            curr = l
             prev = None
-            
-            while curr:
-                after = curr.next
-                curr.next = prev
-                prev = curr
-                curr = after
+            cur = l 
+
+            while cur:
+                after = cur.next
+                cur.next = prev
+                prev = cur
+                cur = after
             
             return prev
         
-        def addVal(reversedList):
-            
-            curr = reversedList
+        def addVal(list1):
+            cur = list1
             res = 0
-            while curr:
-                res = res * 10 + curr.val
-                curr = curr.next
-            
-            return res
+
+            while cur:
+                res = res * 10 + cur.val
+                cur = cur.next
+
+            return res 
+
+
+
         
-        
+        l1, l2 = reverseList(l1), reverseList(l2)
+        res = 0
+
         dummy = ListNode()
         tail = dummy
-        
-        reversedl1, reversedl2 = reverseList(l1), reverseList(l2)
-        
-        sum1, sum2 = addVal(reversedl1), addVal(reversedl2)
-        total = str((sum1 + sum2))
-        
-        for i in total:
-            tail.next = ListNode(int(i))
+
+        sum1, sum2 = addVal(l1), addVal(l2)
+
+        totalSum = str(sum1 + sum2)
+
+        for i in range(len(totalSum)):
+            tail.next = ListNode(int(totalSum[i]))
             tail = tail.next
-            
+        
         return reverseList(dummy.next)
+
+
+
     
     
         
