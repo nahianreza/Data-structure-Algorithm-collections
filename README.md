@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0151-reverse-words-in-a-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
