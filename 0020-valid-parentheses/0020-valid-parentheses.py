@@ -4,20 +4,18 @@ class Solution:
         
         if len(s) == 1:
             return False
-        
+
         stack = []
-        
+
         for i in s:
-            if i not in hmap:
-                stack.append(i)
-            else:
-                if stack and stack[-1] == hmap[i]:
+            if i in hmap:
+                if stack and hmap[i] == stack[-1]:
                     stack.pop()
                 else:
                     return False
-                    
-                    
-       
+            else:
+                stack.append(i)
+
         if stack:
             return False
         return True
