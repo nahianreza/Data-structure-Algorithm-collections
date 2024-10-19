@@ -411,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
