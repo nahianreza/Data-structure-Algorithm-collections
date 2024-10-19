@@ -5,53 +5,28 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        
-        def reverseList(l):
-            prev = None
-            cur = l 
-
-            while cur:
-                after = cur.next
-                cur.next = prev
-                prev = cur
-                cur = after
-            
-            return prev
-        
-        def addVal(list1):
-            cur = list1
-            res = 0
-
-            while cur:
-                res = res * 10 + cur.val
-                cur = cur.next
-
-            return res 
-
-
-
-        
-        l1, l2 = reverseList(l1), reverseList(l2)
-        res = 0
-
         dummy = ListNode()
         tail = dummy
+        total = 0
+        carry = 0
+        
+        while l1 or l2 or carry:
+            val1 = l1.val if l1 else 0
+            val2 = l2.val if l2 else 0
 
-        sum1, sum2 = addVal(l1), addVal(l2)
+            total = val1 + val2 + carry
+            carry = total // 10
+            cur = total % 10
 
-        totalSum = str(sum1 + sum2)
-
-        for i in range(len(totalSum)):
-            tail.next = ListNode(int(totalSum[i]))
+            tail.next = ListNode(cur)
             tail = tail.next
+
+            if l1:
+                l1 = l1.next
+            if l2:
+                l2 = l2.next
         
-        return reverseList(dummy.next)
-
-
-
-    
-    
-        
+        return dummy.next
         
                 
         
