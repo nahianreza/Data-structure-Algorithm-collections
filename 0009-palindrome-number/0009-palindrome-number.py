@@ -7,7 +7,7 @@ class Solution:
         
         div = 1
 
-        while x >= 10 * div:
+        while x > 10 * div:
             div *= 10
 
         while x:
