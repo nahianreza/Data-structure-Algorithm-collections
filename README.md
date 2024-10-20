@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0883-car-fleet) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 ## Database
 |  |
