@@ -1,27 +1,34 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
+        resList = []
         nums.sort()
-        
 
-        for i, a in enumerate(nums):
-            if i > 0 and nums[i - 1] == a:
+        for i in range(len(nums)):
+            if i > 0 and nums[i-1] == nums[i]:
                 continue
-            l = i + 1
-            r = len(nums) -1
+
+            l, r = i + 1, len(nums) - 1
+
             while r > l:
-                threeSum = a + nums[l] + nums[r]
-                if threeSum > 0:
-                    r -= 1
-                elif threeSum < 0:
-                    l += 1
-                else:
-                    res.append([a, nums[l], nums[r]])
+                total = nums[r] + nums[l] + nums[i]
+                if total == 0:
+                    resList.append([nums[i], nums[l], nums[r]])
                     l += 1
                     while nums[l] == nums[l -1] and l < r:
                         l += 1
-                
-        return res
+                    
+                elif total < 0:
+                    l += 1
+                elif total > 0:
+                    r -= 1
+        
+        return resList
+                    
+
+
+
+        
+        
 
 
 
