@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0792-binary-search) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
 ## Matrix
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0200-number-of-islands) |
+| [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0054-spiral-matrix) |
+| [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 ## Merge Sort
 |  |
 | ------- |
