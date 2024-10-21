@@ -17,43 +17,32 @@ class TicTacToe:
         
         for i in range(self.n):
             if self.board[i][col] != moveChar:
-                winner = 0
                 break
-            winner = player
-        
-        if winner == player:
+        else:
             return player
         
         for j in range(self.n):
             if self.board[row][j] != moveChar:
-                winner = 0
                 break
-            winner = player
-        
-        if winner == player:
+        else:
             return player
+        
         
         for d in range(self.n):
             if self.board[d][d] != moveChar:
-                winner = 0
                 break
-            winner = player
-            
-        if winner == player:
+        else:
             return player
+            
 
         for nd in range(self.n):
             if self.board[nd][self.n -1 - nd] != moveChar:
-                winner = 0
                 break
-            winner = player
-            
-        if winner == player:
+        else:
             return player
-
-            
         
-        return winner
+        
+        return 0
 
         
 
