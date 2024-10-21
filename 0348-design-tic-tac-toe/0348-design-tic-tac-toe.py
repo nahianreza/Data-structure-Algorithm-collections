@@ -1,49 +1,31 @@
 class TicTacToe:
 
     def __init__(self, n: int):
-        self.board = [[0] * n for _ in range(n)]
-
-        self.playerMap = {1: 'X', 2: '0'}
-
-        self.n = n
+        self.rows = [0] * n
+        self.col = [0] * n
+        self.diagonal = 0
+        self.antiDiagonal = 0
+        self.length = n
 
 
         
 
     def move(self, row: int, col: int, player: int) -> int:
-        winner = 0 
-        moveChar = self.playerMap[player]
-        self.board[row][col] = moveChar
-        
-        for i in range(self.n):
-            if self.board[i][col] != moveChar:
-                break
-        else:
-            return player
-        
-        for j in range(self.n):
-            if self.board[row][j] != moveChar:
-                break
-        else:
-            return player
-        
-        
-        for d in range(self.n):
-            if self.board[d][d] != moveChar:
-                break
-        else:
-            return player
-            
+        cur = 1 if player == 1 else - 1
 
-        for nd in range(self.n):
-            if self.board[nd][self.n -1 - nd] != moveChar:
-                break
-        else:
-            return player
+        self.rows[row] += cur
+        self.col[col] += cur
+
+        if row == col:
+            self.diagonal += cur
         
+        if row == self.length - 1 - col:
+            self.antiDiagonal += cur
+
+        if abs(self.rows[row]) == self.length or abs(self.col[col]) == self.length or abs(self.diagonal) == self.length or abs(self.antiDiagonal) == self.length:
+            return player
         
         return 0
-
         
 
 
