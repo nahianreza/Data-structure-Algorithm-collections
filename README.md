@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0186-reverse-words-in-a-string-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
