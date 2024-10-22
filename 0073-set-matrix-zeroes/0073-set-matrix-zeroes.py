@@ -1,24 +1,25 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        row = len(matrix)
-        col = len(matrix[0])
-        
-        rowCol = set()
-        
+        visited = set()
+
+        row, col = len(matrix), len(matrix[0])
+
+
         for r in range(row):
             for c in range(col):
-                if matrix[r][c] == 0:
-                    rowCol.add((r,c))
-                    
-        for coordinates in rowCol:
-            newRow = coordinates[0]
-            newCol = coordinates[1]
-            for i in range(row):
-                matrix[i][newCol] = 0
-            for j in range(col):
-                matrix[newRow][j] = 0
-                    
-                    
+                if matrix[r][c] == 0 and (r,c) not in visited:
+                    for i in range(row):
+                        if matrix[i][c] != 0:
+                            matrix[i][c] = 0
+                            visited.add((i,c))
+                    for j in range(col):
+                        if matrix[r][j] != 0:
+                            matrix[r][j] = 0
+                            visited.add((r, j))
+
+        return matrix
+    
+        
     
                 
                                    
