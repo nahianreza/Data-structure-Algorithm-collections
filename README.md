@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
