@@ -12,41 +12,37 @@ class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
             return None
-        queue = collections.deque()
 
-        queue.append(root)
+        leftMost = root
+        
 
-        root.next = None
+        while leftMost:
+            cur = leftMost
+            leftMost = None
+            prev = None
 
-        while queue:
-            for i in range(len(queue)):
-                node = queue.popleft()
-                if node.left and node.right:
-                    node.left.next = node.right
-                if node.left:
-                    queue.append(node.left)      
-                if node.right:
-                    queue.append(node.right)
+            while cur:
 
-                cur = node.next
-                while cur and not cur.left and not cur.right :
-                    cur = cur.next
+                if cur.left:
+                    if prev:
+                        prev.next = cur.left
+                    else:
+                        leftMost = cur.left
+                    prev = cur.left
                 
-                if cur:
-                    if cur.left and node.right:
-                        node.right.next = cur.left
-                    elif cur.left and node.left:
-                        node.left.next = cur.left
-                    elif cur.right and node.right:
-                        node.right.next = cur.right
-                    elif cur.right and node.left:
-                        node.left.next = cur.right
+                if cur.right:
+                    if prev:
+                        prev.next = cur.right
+                    else:
+                        leftMost = cur.right
+                    prev = cur.right
+                    
+                cur = cur.next
+        
+        if prev:
+            prev.next = None
         
         return root
-                
-
-                
-                
         
 
             
