@@ -8,7 +8,7 @@ class Solution:
             if prices[r] > prices[l]:
                 diff = prices[r] - prices[l]
                 res = max(res, diff)
-            elif prices[r] < prices[l]:
+            else:
                 l = r
         
         return res
