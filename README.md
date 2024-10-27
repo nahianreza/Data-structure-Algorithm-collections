@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0883-car-fleet) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0200-number-of-islands) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
+| [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
