@@ -20,7 +20,7 @@ class Solution:
                 for x, y in directions:
                     newRow, newCol = r + x, c + y
 
-                    if newRow < 0 or newRow == ROW or newCol < 0 or newCol == COL or grid[newRow][newCol] != 1:
+                    if newRow < 0 or newRow >= ROW or newCol < 0 or newCol >= COL or grid[newRow][newCol] != 1:
                         continue
                     grid[newRow][newCol] = 2
                     queue.append([newRow, newCol])
