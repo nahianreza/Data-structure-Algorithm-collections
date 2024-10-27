@@ -24,12 +24,7 @@ class Solution:
             dfs(r, COL - 1, heights[r][COL-1], atlantic)
 
         
-        for i in range(ROW):
-            for j in range(COL):
-                if (i,j) in pacific and (i, j) in atlantic:
-                    res.append([i,j])
-
-        return res
+        return list(pacific & atlantic)
 
         
 
