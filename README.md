@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0647-palindromic-substrings) |
+| [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
 | [1894-merge-strings-alternately](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1894-merge-strings-alternately) |
 ## Hash Function
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1127-last-stone-weight) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 ## Database
 |  |
 | ------- |
