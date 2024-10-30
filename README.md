@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0417-pacific-atlantic-water-flow) |
+| [0496-next-greater-element-i](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0739-daily-temperatures) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0883-car-fleet) |
 ## Design
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0883-car-fleet) |
 ## Simulation
