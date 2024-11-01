@@ -15,8 +15,8 @@ class SparseVector:
     def dotProduct(self, vec: 'SparseVector') -> int:
         res = 0
         print(self.sparseMap)
-        for i, val in enumerate(self.nums):
-            if val != 0 and i in vec.sparseMap:
+        for i, val in self.sparseMap.items():
+            if i in vec.sparseMap:
                 res += val * vec.sparseMap[i]
         
         return res
