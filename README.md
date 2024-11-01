@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1036-rotting-oranges) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1127-last-stone-weight) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1014-k-closest-points-to-origin) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
