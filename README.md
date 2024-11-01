@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1127-last-stone-weight) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0647-palindromic-substrings) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1894-merge-strings-alternately](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1894-merge-strings-alternately) |
 ## Tree
 |  |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Matrix
 |  |
 | ------- |
