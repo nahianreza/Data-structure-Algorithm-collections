@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0344-reverse-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0647-palindromic-substrings) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
