@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0417-pacific-atlantic-water-flow) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1036-rotting-oranges) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 ## Game Theory
