@@ -1,52 +1,46 @@
 class Node:
     def __init__(self, key, val):
-        self.key, self.val = key, val
-        self.prev = None
+        self.key = key
+        self.val = val
         self.next = None
+        self.prev = None
 
 class LRUCache:
-    
+
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.cache = {}
-        
-        self.left, self.right = Node(0,0), Node(0,0)
-        
+        self.left = Node(None, None)
+        self.right = Node(None, None)
         self.left.next, self.right.prev = self.right, self.left
-        
-    def remove(self, node):
-        prev, nxt = node.prev, node.next
-        prev.next, nxt.prev = nxt, prev
-        
-        
-    def insert(self, node):
-        prev, nxt = self.right.prev, self.right
-        prev.next = nxt.prev = node
-        node.prev, node.next = prev, nxt
-        
-        
-        
+
+    def insert(self,node):
+        prev_right = self.right.prev
+        prev_right.next, self.right.prev = node,node
+        node.prev, node.next = prev_right, self.right
+    def remove(self,node):
+        node_left, node_right = node.prev, node.next
+        node_left.next, node_right.prev = node_right, node_left
 
     def get(self, key: int) -> int:
         if key in self.cache:
             self.remove(self.cache[key])
             self.insert(self.cache[key])
             return self.cache[key].val
-        return -1 
-        
+        return -1
+    
 
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
             self.remove(self.cache[key])
-        self.cache[key] = Node(key, value)
+        newNode = Node(key, value)
+        self.cache[key] = newNode
         self.insert(self.cache[key])
-        
+
         if len(self.cache) > self.capacity:
-            lru = self.left.next
-            self.remove(self.cache[lru.key])
-            del self.cache[lru.key]
-            
-    
+            least_used = self.left.next
+            self.remove(least_used)
+            del self.cache[least_used.key]
         
 
 
