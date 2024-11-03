@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0348-design-tic-tac-toe) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0647-palindromic-substrings) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
