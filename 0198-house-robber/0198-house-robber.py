@@ -3,8 +3,11 @@ class Solution:
         rob1, rob2 = 0, 0
 
         for i in nums:
-            curMax = max(i + rob1, rob2)
-            rob1 = rob2
-            rob2 = curMax
+            cur = max(i + rob1, rob2)
+            rob2, rob1 = cur, rob2
         
         return rob2
+        
+
+
+        
