@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0907-koko-eating-bananas) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
