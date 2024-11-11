@@ -1,29 +1,24 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-
+        combination = []
         res = []
 
-        def dfs(i, curList, total):
-            if (i >= len(candidates)) or total > target:
+        def dfs(i):
+            if sum(combination) == target:
+                res.append(combination.copy())
                 return
-            if total == target:
-                res.append(list(curList))
+            if sum(combination) > target or i >= len(candidates):
                 return
             
-            
-            
-            
-            curList.append(candidates[i])
+            combination.append(candidates[i])
+            dfs(i)
 
-            dfs(i, curList, total + candidates[i])
-
-            curList.pop()
-
-            dfs(i + 1, curList, total)
+            combination.pop()
+            dfs(i+ 1)
         
-        dfs(0, [], 0)
-            
-        
+        dfs(0)
+
         return res
-            
+
+
         
