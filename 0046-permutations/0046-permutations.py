@@ -1,21 +1,21 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
-        sol = []
+        permutations = []
 
-        def dfs(sol):
-            if len(sol) == len(nums):
-                res.append(list(sol))
-
-            for j in nums:
-                if j not in sol:
-                    sol.append(j)
-                    dfs(sol)
-                    sol.pop()
+        def dfs(cur):
+            if len(permutations) == len(nums):
+                res.append(permutations.copy())
+                return
+            
+            for p in nums:
+                if p not in permutations:
+                    permutations.append(p)
+                    dfs(p)
+                    permutations.pop()
         
-        dfs([])
+        dfs(nums[0])
 
         return res
-
 
         
