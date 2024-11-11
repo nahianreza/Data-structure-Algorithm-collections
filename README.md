@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1127-last-stone-weight) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2139-detect-squares](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/2139-detect-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2139-detect-squares](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/2139-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0778-reorganize-string) |
+| [2139-detect-squares](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/2139-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1023-time-based-key-value-store) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2139-detect-squares](https://github.com/nahianreza/Data-structure-Algorithm-collections/tree/master/2139-detect-squares) |
 ## Matrix
 |  |
 | ------- |
